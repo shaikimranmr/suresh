@@ -1,0 +1,6 @@
+@custmore_HostAddress = http://localhost:5116
+
+GET {{custmore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
